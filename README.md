@@ -21,6 +21,8 @@
   </a>
 </p>
 
+<br>
+
 <h1 align="center">Things I have learned</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,12 +32,16 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imladris20&show_icons=true&locale=en" alt="imladris20" /></p> -->
 
-<h2 align="center">My Github Streak Stats:</h2>
+<br>
+
+<h1 align="center">My Github Streak Stats:</h1>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imladris20&" alt="imladris20" />
 </p>
 
-<h2 align="center">My Github Languages Card </h2>
+<br>
+
+<h1 align="center">My Github Languages Card </h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imladris20&show_icons=true&locale=en&layout=compact" alt="imladris20" />
 </p>
