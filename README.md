@@ -2,7 +2,7 @@
 
 <h1 align="center">Self-taught and passionate Front-End Developer from Taiwan.</h1>
 
-- 🔭 I’m currently working on **[TripHub](https://triphub.web.app/)**, a trip planning website.
+- 🔭 I’m currently working on **[TripHub](https://github.com/imladris20/TripHub)**, a trip planning website.
 
 - 🌱 I’m currently learning **React Patterns**.
 
