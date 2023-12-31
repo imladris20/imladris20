@@ -1,14 +1,12 @@
 <img src="https://imgur.com/cKVExbW.gif">
-<br>
-<br>
-<br>
+
 <h1 align="center">I'm Po-Lien, Lin.</h1>
 
 <h3 align="center">A self-taught and passionate Front-End Developer from Taiwan.</h3>
 
 <br>
 
-- 🔭 I’m currently working on [TripHub](https://triphub.web.app/), a trip planning website.
+- 🔭 I’m currently working on **[TripHub](https://triphub.web.app/)**, a trip planning website.
 
 - 🌱 I’m currently learning **React Patterns**.
 
@@ -18,9 +16,7 @@
 
 - ⚡ Fun fact: **Peanut Mochi is the best food in the world!**
 
-- 👉 Next thing to learn: Vue.js
-
-<br><br>
+- 👉 Next thing to learn: **Vue.js**
 
 <h1 align="center">Currently Develop with</h1>
 <p align="center">
@@ -29,12 +25,10 @@
   </a>
 </p>
 
-<br><br>
-
 <h1 align="center">Things I have learned</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,figma,nodejs,nextjs,postman,pug,ts,bash,github,md,materialui,postgres,vim," />
+    <img src="https://skillicons.dev/icons?i=babel,c,figma,nodejs,nextjs,postman,ts,bash,github,materialui,postgres" />
   </a>
 </p>
 
