@@ -1,6 +1,6 @@
 <img src="https://imgur.com/cKVExbW.gif">
 
-<h1 align="center">A self-taught and passionate Front-End Developer from Taiwan.</h1>
+<h1 align="center">Self-taught and passionate Front-End Developer from Taiwan.</h1>
 
 - 🔭 I’m currently working on **[TripHub](https://triphub.web.app/)**, a trip planning website.
 
