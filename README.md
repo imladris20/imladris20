@@ -1,10 +1,6 @@
 <img src="https://imgur.com/cKVExbW.gif">
 
-<h1 align="center">I'm Po-Lien, Lin.</h1>
-
-<h3 align="center">A self-taught and passionate Front-End Developer from Taiwan.</h3>
-
-<br>
+<h1 align="center">A self-taught and passionate Front-End Developer from Taiwan.</h1>
 
 - 🔭 I’m currently working on **[TripHub](https://triphub.web.app/)**, a trip planning website.
 
