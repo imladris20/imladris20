@@ -1,16 +1,51 @@
-### Hi there 👋
+<img src="https://imgur.com/cKVExbW.gif">
+<br>
+<br>
+<br>
+<h1 align="center">I'm Po-Lien, Lin.</h1>
 
-<!--
-**imladris20/imladris20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A self-taught and passionate Front-End Developer from Taiwan.</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [TripHub](https://triphub.web.app/), a trip planning website.
+
+- 🌱 I’m currently learning **React Patterns**.
+
+- 💬 Ask me about **React.js**
+
+- 📫 You can reach me by **polien.joe.lin@gmail.com** and **[linkedin](https://linkedin.com/in/polienlin)**.
+
+- ⚡ Fun fact: **Peanut Mochi is the best food in the world!**
+
+- 👉 Next thing to learn: Vue.js
+
+<br><br>
+
+<h1 align="center">Currently Develop with</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,firebase,gcp,git,tailwind,styledcomponents,vscode" />
+  </a>
+</p>
+
+<br><br>
+
+<h1 align="center">Things I have learned</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,figma,nodejs,nextjs,postman,pug,ts,bash,github,md,materialui,postgres,vim," />
+  </a>
+</p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imladris20&show_icons=true&locale=en" alt="imladris20" /></p> -->
+
+<h2 align="center">My Github Streak Stats:</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imladris20&" alt="imladris20" />
+</p>
+
+<h2 align="center">My Github Languages Card </h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imladris20&show_icons=true&locale=en&layout=compact" alt="imladris20" />
+</p>
