@@ -32,7 +32,7 @@
 
 <h1 align="center">My Github Streak Stats:</h1>
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=imladris20" alt="imladris20" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imladris20" alt="GitHub Streak" /></a>
 </p>
 
 <br>
