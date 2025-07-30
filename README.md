@@ -2,22 +2,18 @@
 
 <h1 align="center">Self-taught and passionate Front-End Developer from Taiwan.</h1>
 
-- 🔭 I’m currently working on **[TripHub](https://github.com/imladris20/TripHub)**, a trip planning website.
+- 💬 Ask me about **React.js, React Hooks And React Patterns**
 
-- 🌱 I’m currently learning **React Patterns**.
-
-- 💬 Ask me about **React.js**
+- 🌱 I’m currently learning **Next.js, Mongo DB, And Express.js**.
 
 - 📫 You can reach me by **polien.joe.lin@gmail.com** and **[linkedin](https://linkedin.com/in/polienlin)**.
 
 - ⚡ Fun fact: **Peanut Mochi is the best food in the world!**
 
-- 👉 Next thing to learn: **Vue.js**
-
 <h1 align="center">Currently Develop with</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,firebase,gcp,git,tailwind,styledcomponents,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,pnpm,firebase,gcp,tailwind,vscode,cs,dotnet,angular,mysql" />
   </a>
 </p>
 
@@ -26,7 +22,7 @@
 <h1 align="center">Things I have learned</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,c,figma,nodejs,nextjs,postman,ts,bash,github,materialui,postgres" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,babel,c,figma,nodejs,nextjs,postman,github,postgres,styledcomponents,sass,vue,express,redis" />
   </a>
 </p>
 
@@ -36,7 +32,7 @@
 
 <h1 align="center">My Github Streak Stats:</h1>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imladris20&" alt="imladris20" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=imladris20" alt="imladris20" />
 </p>
 
 <br>
