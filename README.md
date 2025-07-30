@@ -26,14 +26,14 @@
   </a>
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imladris20&show_icons=true&locale=en" alt="imladris20" /></p> -->
-
 <br>
 
 <h1 align="center">My Github Streak Stats:</h1>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imladris20" alt="GitHub Streak" /></a>
-</p>
+  <p align="center">
+    <a href="https://github.com/imladris20">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=imladris20"/>
+    </a>
+  </p>
 
 <br>
 
